@@ -42,16 +42,16 @@ yarn start
 - The bot listens for trades on a master account and replicates them on follower accounts in real time.
 - All trades are executed via Raydium AMM pools for optimal speed and price.
 
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
 ## Support & Contact
 
 For questions, support, or collaboration inquiries:
 
-**Telegram**: [@solzarr](https://t.me/solzarr)
-**X(twitter)**: [@solzarr](https://x.com/0xmarcus0401)
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
+- **Telegram**: [@solzarr](https://t.me/solzarr)
+- **X(twitter)**: [@solzarr](https://x.com/0xmarcus0401)
 
 ## License
 
